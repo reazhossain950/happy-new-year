@@ -47,3 +47,34 @@
     color: black;
     margin:20px 0px ;
 }
+
+.midnight{
+    background: url('../resources/Vectorrr.png');
+    display: flex;
+    padding: 20px;
+    color: white;
+    margin: 50px 0px;
+}
+
+.midnight-party {
+    padding-left:100px ;
+    margin-top: 100px;
+
+}
+
+.midnight-party h1{
+    font-size: 64px;
+    font-weight: 700;
+}
+.midnight-party p{
+    font-size: 18px;
+    margin: 20px 0px;
+    padding-right: 100px;
+}
+
+.mid-btn {
+    padding:10px  20px ;
+    font-weight: 700;
+    font-size: 20px;
+
+}
