@@ -1,16 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+
 #banner{
         margin: 50px 0px;
-        background: url('../resources/Banner\ Image.png');
+        background: url('../resources/banner-2.jpg');
         padding:100px 200px ;
         background-repeat: no-repeat;
         text-align: center;
         color: white;
-}
-
-.banner-text{
 
 }
 
+/* .banner-text{
+
+} */
+
+.categorie{
+    text-align: center;
+    color: red;
+    margin-bottom: 20px;
+}
 .banner-text h3{
     font-size: 32px;
 }
@@ -18,4 +34,16 @@
 .banner-text h1{
     font-size: 72px;
     font-weight: 700;
+}
+.off{
+    font-size: 88px;
+    color: red;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.categori-title{
+    font-size: 48px;
+    color: black;
+    margin:20px 0px ;
 }
