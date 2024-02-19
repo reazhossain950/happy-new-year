@@ -121,15 +121,39 @@
     justify-content: space-between;
 }
 
+.sale-img image{
+    width: 50%;
+}
+
+.happy-shopping {
+    margin-bottom: 229px;
+    margin-left: -56px;
+}
+
+.protfolio{
+    margin: 50px  0;
+}
+
+.protfolio h6{
+    font-size: 24px;
+    font-weight: 600;
+}
+.protfolio h1{
+    font-size: 48px;
+    font-weight: 700;
+}
+.protfolio p{
+    font-size: 20px;
+    padding-right: 350px;
+}
+
 .protfolio-images{
     display: grid;
     grid-template-columns: auto auto auto ;
-    gap: 10px;
+    gap: 5px;
 
 }
-.protfolio-images image{
-    width: 80%;
-}
+
 .footer{
     background-color: #070211;
     color: white;
